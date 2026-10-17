@@ -9,5 +9,5 @@ Login com fundo de floresta que salva e que pode utilizar para criar senha e dei
 ## Agradecimentos 🫶
 * Professor Alexandre
 
-Gostei de fazer o site de Login professor foi legal demais tmj
+Gostei de fazer o site de Login professor foi legal demais tmj 🤟
 
