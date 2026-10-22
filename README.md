@@ -6,8 +6,9 @@ Login com fundo de floresta que salva e que pode utilizar para criar senha e dei
 * HTML
 * CSS
 
-## Agradecimentos 🫶
+# Agradecimentos 🫶
 * Professor Alexandre
+* Rodolfo Mori
 
 Gostei de fazer o site de Login professor foi legal demais tmj 🤟
 
